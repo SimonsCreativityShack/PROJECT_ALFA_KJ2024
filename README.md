@@ -3,8 +3,8 @@
 This is a game project for KrakJam 2024
 
 # Authors
-Viwien(Miśka)  - https://github.com/Viwien  
-KageuraKoara   - https://github.com/KageuraKoara  
-Rzabiec        - https://github.com/Rzabiec  
-Winnie Gotmilk - https://github.com/winniegotmilk  
-Szymon Steczek - Owner of this repo  
+Viwien(Miśka) &nbsp; &nbsp; - https://github.com/Viwien  
+KageuraKoara &nbsp; &nbsp; - https://github.com/KageuraKoara  
+Rzabiec &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - https://github.com/Rzabiec  
+Winnie Gotmilk &nbsp;- https://github.com/winniegotmilk  
+Szymon Steczek &nbsp;- Owner of this repo  
